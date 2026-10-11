@@ -163,7 +163,9 @@ The latest observed software suite passed 76 tests.
 A real installed-CLI run completed ten generations and reproduced the
 seed-42 observations.
 
-Clean-clone installation and remote CI remain pending verification.
+A clean Git clone and non-editable installation in a fresh Python 3.14 environment passed all 76 software tests. The installed offline CLI reproduced the recorded benchmark counts.
+
+Remote CI remains pending verification.
 
 ## Security Considerations
 
