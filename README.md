@@ -165,7 +165,9 @@ seed-42 observations.
 
 A clean Git clone and non-editable installation in a fresh Python 3.14 environment passed all 76 software tests. The installed offline CLI reproduced the recorded benchmark counts.
 
-Remote CI remains pending verification.
+GitHub Actions passed on Python 3.12 and 3.14 for commit `e0d26fb`.
+
+Verified run: [CI results](https://github.com/yahyarabass06-cell/rag-trust-boundary-lab/actions/runs/38174179504).
 
 ## Security Considerations
 
