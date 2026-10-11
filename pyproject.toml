@@ -31,3 +31,4 @@ select = ["E", "F", "I"]
 
 [project.scripts]
 rag-security-report = "rag_security.cli:main"
+rag-security-benchmark = "rag_security.local_experiment:main"
