@@ -28,3 +28,6 @@ line-length = 88
 
 [tool.ruff.lint]
 select = ["E", "F", "I"]
+
+[project.scripts]
+rag-security-report = "rag_security.cli:main"
